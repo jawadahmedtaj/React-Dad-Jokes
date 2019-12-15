@@ -86,8 +86,8 @@ export default class JokeList extends Component {
             src="https://assets.dryicons.com/uploads/icon/svg/8927/0eb14c71-38f2-433a-bfc8-23d9c99b3647.svg"
             alt=""
           />
-          <button className="JokesList-Getmore" onClick={this.handleClick}>
-            New Jokes
+          <button className="JokeList-Getmore" onClick={this.handleClick}>
+            Fetch Jokes
           </button>
         </div>
 
